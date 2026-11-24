@@ -1,5 +1,7 @@
 # sak — Swiss Army Knife: Kit de Operações CMS e cPanel (`v2.0.0`)
 
+![sak cover](sak-cover.webp)
+
 Uma CLI moderna e independente em Bash + Python 3 para **detecção de CMS, diagnóstico WordPress, auditoria/correção de permissões, backups `chmod 600` com SHA-256 e listagem de usuários Linux/cPanel** — substituindo o legado `sak` (`0.1.5`, 2013) com subcomandos limpos e saídas `table` / `json` / `csv`.
 
 ## Modernização Histórica
